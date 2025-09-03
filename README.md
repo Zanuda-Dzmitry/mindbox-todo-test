@@ -45,7 +45,9 @@
 ### Установка
 
 git clone <repository-url>
-cd my-app
+
+cd mindbox-todo-test
+
 npm install
 
 ## Запуск в development режиме
