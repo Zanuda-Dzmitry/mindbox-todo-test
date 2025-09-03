@@ -44,19 +44,25 @@
 
 ### Установка
 
+```bash
 git clone <repository-url>
 
 cd mindbox-todo-test
 
 npm install
+```
 
 ## Запуск в development режиме
 
+```bash
 npm run start
+```
 
 ## Сборка для production
 
+```bash
 npm run build
+```
 
 # 🧪 Тесты компонентов Todo-приложения
 
