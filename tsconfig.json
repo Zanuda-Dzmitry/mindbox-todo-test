@@ -16,8 +16,8 @@
     "noFallthroughCasesInSwitch": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "types": ["vitest/globals"]
+    "outDir": "./dist"
   },
-  "include": ["src", "vite.config.ts", "vitest.config.ts"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
