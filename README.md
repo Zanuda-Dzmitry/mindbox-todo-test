@@ -46,9 +46,7 @@
 
 ```bash
 git clone <repository-url>
-
 cd mindbox-todo-test
-
 npm install
 ```
 
